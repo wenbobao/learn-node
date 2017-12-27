@@ -1,0 +1,17 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "bob",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
